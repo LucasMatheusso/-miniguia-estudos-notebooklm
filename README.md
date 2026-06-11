@@ -179,10 +179,9 @@ BI é um conjunto de tecnologias, processos e práticas que transformam dados br
 ```
 
 
-## 👨‍💻 Autor
+##  Autor
 
 Projeto desenvolvido como entrega do desafio prático da [DIO](https://www.dio.me) — Bootcamp de Análise de Dados.
 
 ---
 
-*Feito com 💙 e muito aprendizado ativo.*
